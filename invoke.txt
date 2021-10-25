@@ -1,0 +1,1 @@
+docker run -p 8080:8080 -p 8787:8787 -e PASSWORD=pw123 -v $(pwd):/home/rstudio/project -t <container-tag>
