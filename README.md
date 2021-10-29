@@ -1,7 +1,7 @@
 Country age vs COVID-19 deaths per capita 
 =========================================
 
-**NOTE**: for my midterm and final project, I will be transitioning to using my own thesis data. See github.com/erisemberg/bios-611-proj-v2. 
+**NOTE**: for my midterm and final project, I will be transitioning to using my own thesis data. See github.com/erisemberg/bios-611-project-v2. 
 
 This data science projects performs some basic analysis comparing country age demographics to COVID-19 death rates. 
 
