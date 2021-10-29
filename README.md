@@ -1,6 +1,8 @@
 Country age vs COVID-19 deaths per capita 
 =========================================
 
+**NOTE**: for my midterm and final project, I will be transitioning to using my own thesis data. See github.com/erisemberg/bios-611-proj-v2. 
+
 This data science projects performs some basic analysis comparing country age demographics to COVID-19 death rates. 
 
 Country population by age data was downloaded from [UNdata](http://data.un.org/Data.aspx?d=POP&f=tableCode%3A22) for the year 2017 and COVID-19 data was downloaded from [Kaggle](https://www.kaggle.com/josephassaker/covid19-global-dataset). 
